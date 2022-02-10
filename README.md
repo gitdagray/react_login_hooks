@@ -1,10 +1,10 @@
-# "React Persistent User Login Authentication with JWT Tokens"
+# "React Login Input Hooks"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
 **Description:**
 
-This repository shares the code applied during the [YouTube Tutorial](https://youtu.be/27KeYk-5vJw). 
+This repository shares the code applied during the [YouTube Tutorial](https://youtu.be/eQrbjvn_fSc). 
 
 Build the backend REST API that I use for authentication in this tutorial with my [7 hour Node JS for Beginners course](https://youtu.be/f2EqECiTBL8) on my channel.
 
