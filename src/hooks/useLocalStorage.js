@@ -6,7 +6,7 @@ const getLocalValue = (key, initValue) => {
 
     // if a value is already store 
     const localValue = JSON.parse(localStorage.getItem(key));
-    if (localValue) return localValue;
+    if (localValue !== undefined) return localValue;
 
     // return result of a function 
     if (initValue instanceof Function) return initValue();
